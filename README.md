@@ -1,7 +1,7 @@
 # Review_Prototype
 A github for the Unreal Review group to begin building and growing a Team Project.
 
-🔧🔧🔧🔧🔧🔧🔧🔧🔧🔧🔧🔧🔧🔧🔧🔧🔧🔧🔧🔧🔧🔧🔧🔧🔧🔧🔧🔧🔧🔧🔧🔧🔧🔧🔧🔧🔧🔧🔧🔧🔧🔧🔧
+🔧🔧🔧🔧🔧🔧🔧🔧🔧🔧🔧🔧🔧🔧🔧🔧🔧🔧🔧🔧🔧🔧🔧🔧🔧🔧
 
 We are focusing on building small prototypes to test if we can all collab as a team.
 
@@ -19,9 +19,9 @@ Here is the place for everythign to take place.
 
 If we can build a simple level and manage to get online multiplayer on then we can move towards our first game development project.
 
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
 
-🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮
+🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮
 
 We are a part of GameDev.TV. We are a team of people working together to help remaster the C++ Unreal Course.
 
