@@ -19,8 +19,6 @@ Here is the place for everythign to take place.
 
 If we can build a simple level and manage to get online multiplayer on then we can move towards our first game development project.
 
-////////////////////////////////////////////////////////////////
-
 🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮
 
 We are a part of GameDev.TV. We are a team of people working together to help remaster the C++ Unreal Course.
